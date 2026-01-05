@@ -59,9 +59,9 @@ CPU-based neural network implementation
 Author
 Mulenga Chituta
 
-GitHub: YourGitHubUsername
+GitHub: https://github.com/MulengaHankandaChituta
 
-LinkedIn: YourLinkedInProfile
+LinkedIn: https://linkedin.com/in/mulengachituta
 
 License
 This project is open-source and free to use under the MIT License.
